@@ -1,0 +1,13 @@
+#container {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box {
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+.painted{
+  background-color: green;
+}
